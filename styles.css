@@ -1,0 +1,46 @@
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+      body {
+        background-color: white;
+
+      }
+      .nav-bar {
+        background-color: white;
+        color: green;
+        padding: 12px;
+        margin: 0px;
+        border-color: 2px solid black;
+        text-align: center;
+      }
+      .profile-picture {
+        text-align: center;
+      }
+      .who-is-kelly {
+        padding: 15px;
+        margin: 5px;
+        width: 100%;
+        background-color: white;
+        color: black;
+      }
+      h2 {
+        color: blue;
+      }
+      .origin {
+        padding: 15px;
+        margin: 5px;
+        width: 100%;
+        background-color: white;
+        color: black;
+      }
+      }
+      .education {
+      padding: 15px;
+      margin: 5px;
+      width: 100%;
+      background-color: white;
+      color: black;
+      }
